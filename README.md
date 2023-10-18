@@ -1,1 +1,1 @@
-# syngkobling
+# slyngkobling
